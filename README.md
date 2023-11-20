@@ -1,29 +1,21 @@
-# Prework Study Guide
+# Prework Study Guide Webpage
 
 ## Description
 
-This repository has been created as part of the bootcamp studies. This is the first lesson and helped me to learn basic HTML, CSS, and JavaScript. 
-
--HTML (I have learnt how to create header and footer and how to structer elements within the html file. For example; evey html file should start with <!DOCTYPE HTML>, and should inclue html, head, body and semantic elemets.)
-
--CSS (I have learnt how to apply styles to the HTML file and how to link it. )
-
--JavaScript (I have learnt basic of JavaScript. For example, varibales, codition statements and for loop. )
-
+This Prework Study Guide was created for boot camp students who were going through the Prework. It contains notes on HTML, CSS, Git, and JavaScript.
 
 ## Installation
 
-This project can be run on any web browsers and on any devices such as; dekstops, laptops, iPads, and mobile devices. 
+N/A
 
-## Features
-HTML, CSS, Git, and JavaScript
+## Usage
+
+To use this Prework Study Guide, you can review the notes in each section. For suggestions on what to study first, open the Chrome DevTools by pressing Command+Option+I (macOS) or Control+Shift+I (Windows). A console panel should open either below or to the side of the webpage in the browser. There you will see a list of topics we learned from the prework along with a suggestion on which topic to study first.
 
 ## Credits
+
 N/A
 
 ## License
-MIT license
 
-## Tests
-
-Not yet. 
+Please refer to the LICENSE in the repo.
